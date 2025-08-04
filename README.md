@@ -162,7 +162,3 @@ npm run build
 # รัน production server
 npm start
 ```
-
-## 📝 License
-
-MIT License
