@@ -1,0 +1,39 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Welcome to Multi-Language App",
+    "subtitle": "Experience our app in multiple languages",
+    "description": "This is a demonstration of a multi-language application using Next.js, next-intl, and shadcn/ui components.",
+    "features": {
+      "title": "Features",
+      "i18n": "Internationalization (i18n)",
+      "ui": "Modern UI Components",
+      "responsive": "Responsive Design",
+      "rtl": "RTL Support"
+    },
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "Learn More"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close"
+  },
+  "language": {
+    "thai": "Thai",
+    "english": "English", 
+    "arabic": "Arabic"
+  }
+} 
